@@ -10,6 +10,6 @@ Front-end developer that loves everything about coding, working over React.Js ec
 
 - 📫  How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lpaulovt/)](https://www.linkedin.com/in/lpaulovt/) 
-| 
+ 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvavitorlopes711@gmail.com)](mailto:silvavitorlopes711@gmail.com)
 
