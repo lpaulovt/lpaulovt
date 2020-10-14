@@ -9,6 +9,6 @@
 Front-end developer that loves everything about coding, working over React.Js ecosystem.
 
 📫  How to reach me:</br>
-
-        - &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lpaulovt/)](https://www.linkedin.com/in/lpaulovt/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvavitorlopes711@gmail.com)](mailto:silvavitorlopes711@gmail.com)
+        - &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lpaulovt/)](https://www.linkedin.com/in/lpaulovt/)
+        - &nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvavitorlopes711@gmail.com)](mailto:silvavitorlopes711@gmail.com)
 
