@@ -3,13 +3,13 @@
    <img src="https://i.ibb.co/ydN58dk/capa-github.jpg" alt="CL Thumb" border="0" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://instagram.com/c.levir">Instagram</a> •
-  <a href="https://youtube.com/c/carloslevir">Youtube Channel (in portuguese)</a> •
-  <a href="https://carloslevir.com">Blog</a>
-</p>
-
 ---
 
-## 👨🏻‍💻 A little bit about me
+### Hello, I'm Paulo 👋
+Front-end developer that loves everything about coding, working over React.Js ecosystem.
+
+- 📫  How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lpaulovt/)](https://www.linkedin.com/in/lpaulovt/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvavitorlopes711@gmail.com)](mailto:silvavitorlopes711@gmail.com)
 
