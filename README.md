@@ -7,7 +7,7 @@
 
 ### Hello, I'm Paulo 👋
 
-Front-end developer that loves everything about coding, working over React.Js ecosystem.
+Front-end developer that loves everything about coding, working over ReactJS ecosystem.
 
 Portfolio: https://lpaulovt.github.io/
 
