@@ -7,7 +7,7 @@
 
 ### Hello, I'm Paulo 👋
 
-Front-end/Mobile developer, currently working at @d3estudio, that loves everything about coding, working over ReactJS and React Native ecosystem.
+Front-end/Mobile developer, that loves everything about coding, working over ReactJS and React Native ecosystem. Currently working at @d3estudio.
 
 Portfolio: https://lpaulovt.github.io/
 
