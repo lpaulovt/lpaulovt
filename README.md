@@ -1,6 +1,6 @@
 
 <p>
-   <img src="https://i.ibb.co/ydN58dk/capa-github.jpg" alt="CL Thumb" border="0" width="100%">
+   <img src="https://i.ibb.co/7QWyJCr/thumb.png" alt="CL Thumb" border="0" width="100%">
 </p>
 
 ---
