@@ -1,13 +1,6 @@
-
-<p>
-   <img src="https://i.ibb.co/mh9Qjd5/thumb.png" alt="CL Thumb" border="0" width="100%">
-</p>
-
----
-
 ### Hello, I'm Paulo 👋
 
-Front-end/Mobile developer, that loves everything about coding, working over ReactJS and React Native ecosystem. Currently working at @d3estudio.
+Front-end/Mobile developer, that loves everything about coding, working over ReactJS and React Native ecosystem. Currently working at @labsit.
 
 Portfolio: https://paulolopes.work/
 
